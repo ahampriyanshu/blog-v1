@@ -1,7 +1,7 @@
 ---
-title: "Boosting SEO organically 3: subdomain and subdirectory"
+title: "Boosting SEO organically 3: subdomain or subdirectory"
 author: Priyanshu Tiwari
-excerpt: "Boosting SEO organically 3: subdomain and subdirectory"
+excerpt: "Boosting SEO organically 3: subdomain or subdirectory"
 categories:
   - Tech
 tags:

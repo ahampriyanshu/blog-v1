@@ -8,7 +8,7 @@ url: "https://ahampriyanshu.com"
 logo: "/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: 200
+words_per_minute: 120
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -29,22 +29,22 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
 feed:
   path: feed.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 12
 paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
-
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -92,15 +92,18 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/ahampriyanshu
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/ahampriyanshu
-    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/ahampriyanshu
     icon: fab fa-github-square
+  - title: Telegram
+    url: https://t.me/ahampriyanshu
+    icon: fab fa-telegram-plane
+  - title: Discord
+    url: https://discordapp.com/users/746095596175097916
+    icon: fab fa-discord
+  - title: Sitemap
+    url: sitemap.xml
+    icon: fas fa-sitemap
   - title: Feed
     url: feed.xml
     icon: fas fa-rss-square

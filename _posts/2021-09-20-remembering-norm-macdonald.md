@@ -1,7 +1,7 @@
 ---
 title: "Any history buffs here? Remembering Norm Macdonald"
 author: Priyanshu Tiwari
-excerpt: "I'm pretty sure, I'm not a doctor, but...I mean if you die, the cancer also dies at exactly  the same time.So to me, that's not a loss. That's a draw."
+excerpt: "It's official that I'm not Norm isn't actually Norm."
 categories:
   - Comedy
 tags:
@@ -9,4 +9,9 @@ tags:
   - comedy
 ---
 
-It's official that [I'm not Norm](https://www.youtube.com/watch?v=BLKFQylnANY&t=5s) isn't actually Norm.
+> I'm pretty sure, I'm not a doctor, but...I mean if you die, the cancer also dies at exactly  the same time.So to me, that's not a loss. That's a draw.
+
+<figure class="align-center">
+  <img src="https://github.com/ahampriyanshu/meta/blob/main/blog/norm.png?raw=true" alt="norm">
+  <figcaption>Rolling Stone ranked norm 139 out of 145 SNL cast members</figcaption>
+</figure> 
