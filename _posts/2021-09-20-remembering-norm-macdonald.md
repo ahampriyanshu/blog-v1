@@ -1,7 +1,7 @@
 ---
 title: "Any history buffs here? Remembering Norm Macdonald"
 author: Priyanshu Tiwari
-excerpt: "It's official that I'm not Norm isn't actually Norm."
+excerpt: "It's official, I'm not Norm isn't actually Norm."
 categories:
   - Comedy
 tags:
