@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Priyanshu Tiwari:
+  name: Priyanshu Tiwari
+  picture: logo.png
+  twitter: "@ahampriyanshu"
+  links:
+    - title: Twitter
+      url: https://twitter.com/ahampriyanshu
+      icon: fab fa-twitter-square
