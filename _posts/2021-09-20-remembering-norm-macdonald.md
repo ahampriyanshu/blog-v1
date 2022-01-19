@@ -18,5 +18,5 @@ tags:
 
 <figure class="align-center">
   <img src="https://github.com/ahampriyanshu/meta/blob/main/blog/norm-rolling.png?raw=true" alt="norm">
-  <figcaption><b>Comedy Legend<b> bruhhhh....</figcaption>
+  <figcaption>"Comedy Legend" bruhhhh....</figcaption>
 </figure> 
