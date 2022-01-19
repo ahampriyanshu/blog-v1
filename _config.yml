@@ -94,16 +94,10 @@ author:
 footer_links:
   - title: GitHub
     url: https://github.com/ahampriyanshu
-    icon: fab fa-github-square
+    icon: fab fa-github
   - title: Telegram
     url: https://t.me/ahampriyanshu
     icon: fab fa-telegram-plane
   - title: Discord
     url: https://discordapp.com/users/746095596175097916
     icon: fab fa-discord
-  - title: Sitemap
-    url: sitemap.xml
-    icon: fas fa-sitemap
-  - title: Feed
-    url: feed.xml
-    icon: fas fa-rss-square
