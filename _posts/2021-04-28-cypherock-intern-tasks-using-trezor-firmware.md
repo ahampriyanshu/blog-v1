@@ -73,11 +73,16 @@ tags:
 * Broadcast the signed txn using ethers scan
 
 #### Transcation Details : 
-```
-0xf86b02847735940082520894c0095a58489ba23cb5c6808dc0bbbf1cdca32aca8802c68af0bb140000802aa052975d44a183eff9c495cd1b50aa17ad5536552b2007cb9a2a58c1abf74614d8a051b670142c71b8feadea5e5cfde8c5a0c61c7504f1de4b32e9f8ae50b5eb5afd
-
-
-{ "nonce": "0x02", "gasLimit": "0x5208", "gasPrice": "0x77359400", "to": "0xc0095a58489ba23cb5c6808dc0bbbf1cdca32aca", "value": "2c68af0bb140000", "data": "0x", "chainId": 3 }
+```json
+  { 
+  "nonce": "0x02",
+  "gasLimit": "0x5208",
+  "gasPrice": "0x77359400",
+  "to": "0xc0095a58489ba23cb5c6808dc0bbbf1cdca32aca",
+  "value": "2c68af0bb140000",
+  "data": "0x", 
+  "chainId": 3
+  }
 ```
 
 ![task 5](https://github.com/ahampriyanshu/meta/blob/main/intern/5.png?raw=true)
