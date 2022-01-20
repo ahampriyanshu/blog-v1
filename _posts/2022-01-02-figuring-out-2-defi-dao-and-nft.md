@@ -58,4 +58,5 @@ Defi stands for Decentralized Finance. It is an umbrella term for financial serv
 * Wrapped Bitcoin (WBTC) : $11 billion
 * Chainlink (LINK) : $10 billion
 
-* I will also soon be publishing it on [GeeksforGeeks](https://www.geeksforgeeks.org/)
+### Copyright Guidelines
+* I will also soon be publishing this article on [GeeksforGeeks](https://www.geeksforgeeks.org/)
