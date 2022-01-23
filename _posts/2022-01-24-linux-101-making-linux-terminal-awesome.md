@@ -1,7 +1,7 @@
 ---
 title: "Linux 101: Making linux terminal awesome"
 author: Priyanshu Tiwari
-excerpt: "Shell plugins to tweak your linux terminal for better productivty and a fancy look"
+excerpt: "Themes and plugins to tweak your linux terminal for better productivity and a fancier look"
 categories:
   - Tech
 tags:

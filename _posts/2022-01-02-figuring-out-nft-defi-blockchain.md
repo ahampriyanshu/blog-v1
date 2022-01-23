@@ -1,5 +1,5 @@
 ---
-title: "Figuring Out Part 2: NFT and DeFi"
+title: "Figuring Out: NFT and DeFi"
 author: Priyanshu Tiwari
 excerpt: "Figuring out all buzz about these neo blockchain technologies. Evaluating their present and future(if they have one)."
 categories:
