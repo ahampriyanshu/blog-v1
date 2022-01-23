@@ -4,6 +4,5 @@
 
 * [My portfolio](https://ahampriyanshu.com/)
 * [Experiments with competitive programming](https://ahampriyanshu.com/cp)
-* [Hail CPP](https://ahampriyanshu.com/cpp)
 * [Algo ds 101](https://dsa.ahampriyanshu.com/)
 
