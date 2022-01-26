@@ -1,7 +1,7 @@
 ---
-title: "Boosting SEO organically 1: Google Search Console, Tag Manager and Analytics"
+title: "Boosting SEO organically 1: Google Search Console, Analytics and Bing Webmaster"
 author: Priyanshu Tiwari
-excerpt: "Boosting SEO organically 1: Google Search Console, Tag Manager and Analytics"
+excerpt: "Boosting SEO organically 1: Google Search Console, Analytics and Bing Webmaster"
 categories:
   - Tech
 tags:
@@ -12,4 +12,4 @@ tags:
   - 'seo'
 ---
 
-Once ...
+Boosting SEO organically 1: Google Search Console, Analytics and Bing Webmaster

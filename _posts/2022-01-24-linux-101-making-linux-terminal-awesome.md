@@ -21,7 +21,7 @@ tags:
 
 > The Z-shell or Zsh is an UNIX shell with support for various plugins and themes.
 
-```sh
+```bash
 sudo apt install zsh      [ Debian/Ubuntu ]
 sudo yum install zsh      [ RedHat/CentOS ]
 sudo pacman -S zsh        [ Arch/Manjaro ]
@@ -29,13 +29,11 @@ sudo dnf install zsh      [ Fedora ]
 sudo zypper install zsh   [ OpenSUSE ]
 ```
 
-![1](https://github.com/ahampriyanshu/making-linux-terminal-awesome/raw/metadata/1.png)
-
 ### [Oh My Zsh](https://ohmyz.sh/)
 
 > Oh My Zsh is an open source and community-driven framework for managing Zsh configuration.
 
-```sh
+```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" [Using curl]
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"   [Using wget]
 ```
@@ -55,7 +53,7 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 
 > Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
-```
+```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
@@ -84,7 +82,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 > This package provides syntax highlighting for the shell zsh. It enables highlighting of commands whilst they are typed at a zsh prompt into an interactive terminal. This helps in reviewing commands before running them, particularly in catching syntax errors.
 
-```
+```bash
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
@@ -97,7 +95,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 >It's an interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
 
-```
+```bash
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 ```

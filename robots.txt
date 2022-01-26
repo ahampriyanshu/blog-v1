@@ -1,0 +1,2 @@
+Sitemap: https://ahampriyanshu.com/blog/sitemap.xml
+User-agent: *
