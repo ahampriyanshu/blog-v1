@@ -6,7 +6,7 @@ categories:
   - Political
 tags:
   - PEPSU
-  - At last
+  - Archived
   - Patiala
 ---
 

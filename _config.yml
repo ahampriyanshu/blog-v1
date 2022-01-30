@@ -38,6 +38,8 @@ feed:
 paginate: 24
 paginate_path: /page:num/
 
+copyright: "Priyanshu Tiwari"
+
 # Search
 search_full_content: true # can have performance implications for large sites
 
