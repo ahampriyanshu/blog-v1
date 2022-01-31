@@ -14,9 +14,4 @@ tags:
 <figure class="align-center">
   <img src="https://github.com/ahampriyanshu/meta/blob/main/blog/norm.png?raw=true" alt="norm">
   <figcaption>Rolling Stone ranked norm 139 out of 145 SNL cast members</figcaption>
-</figure> 
-
-<figure class="align-center">
-  <img src="https://github.com/ahampriyanshu/meta/blob/main/blog/norm-rolling.png?raw=true" alt="norm">
-  <figcaption>"Comedy Legend" bruhhhh....</figcaption>
-</figure> 
+</figure>
