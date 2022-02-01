@@ -1,7 +1,7 @@
 ---
-title: "More than a communist: Faiz Ahmad Faiz"
+title: "More than an artist: Faiz Ahmad Faiz"
 author: Priyanshu Tiwari
-excerpt: "More than a communist: Faiz Ahmad Faiz"
+excerpt: "More than an artist: Faiz Ahmad Faiz"
 categories:
   - Political
 tags:
