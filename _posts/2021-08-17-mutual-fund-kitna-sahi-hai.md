@@ -1,7 +1,7 @@
 ---
 title: "Mutual fund kitna sahi hai"
 author: Priyanshu Tiwari
-excerpt: "With the average return of 15-18%, should one choose Mutual Funds over FD(or even stocks)"
+excerpt: "With the average return of 15-18%, should one choose Mutual Funds over FD"
 categories:
   - Finance
 tags:
@@ -9,7 +9,7 @@ tags:
   - finance
 ---
 
-With the average return of 15-18%, should oone choose a Mutual Fund over FD(or even stocks)
+With the average return of 15-18%, should one choose a Mutual Fund over FD
 
 <figure class="align-center">
   <img src="https://github.com/ahampriyanshu/meta/blob/main/blog/mutual-funds.png?raw=true" alt="norm">
